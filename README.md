@@ -1,7 +1,7 @@
 # A trip list project
 - lists out trips from json server db
 - it can also filter through the array to show certain trips
-- pracricing hooks, react modular stying
+- practicing hooks, react modular stying
 
 
 
