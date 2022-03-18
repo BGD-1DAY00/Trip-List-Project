@@ -1,3 +1,11 @@
+# A trip list project
+- lists out trips from json server db
+- it can also filter through the array to show certain trips
+- pracricing hooks, react modular stying
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
